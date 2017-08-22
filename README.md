@@ -1,8 +1,9 @@
-###Breakout
+### Breakout
 
-##Game in Python
+## Game in Python
 
 To run game:
-'''
+```
 python breakout.py
-'''
+
+```
