@@ -1,0 +1,8 @@
+#Ignoring libraries
+
+pygame
+sys
+os
+re
+shutil
+commands
